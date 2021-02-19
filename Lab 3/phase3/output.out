@@ -1,0 +1,11 @@
+opening scope
+declare x as (272, 0, SCALAR)
+declare p as (272, 1, SCALAR)
+declare x as (285, 0, SCALAR)
+opening scope
+declare a as (272, 0, SCALAR)
+declare b as (272, 0, SCALAR)
+define function f
+declare c as (259, 0, ARRAY)
+closing scope
+closing scope
