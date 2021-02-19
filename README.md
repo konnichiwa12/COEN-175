@@ -4,4 +4,8 @@ Introduction to Formal Language Concepts &amp; Compilers
 
 Labs taken during Winter 2021
 
-Week 1: Lexical Analysis
+Lab 1: Lexical Analysis
+
+Lab 2: Syntax Analysis
+
+Lab 3: Symbol Table Construction
