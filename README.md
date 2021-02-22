@@ -9,3 +9,5 @@ Lab 1: Lexical Analysis
 Lab 2: Syntax Analysis
 
 Lab 3: Symbol Table Construction
+
+Lab 4: Type Checking
