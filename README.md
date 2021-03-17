@@ -11,3 +11,7 @@ Lab 2: Syntax Analysis
 Lab 3: Symbol Table Construction
 
 Lab 4: Type Checking
+
+Lab 5: Storage Allocation
+
+Lab 6: Code Generation
